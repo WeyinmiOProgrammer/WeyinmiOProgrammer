@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WeyinmiOProgrammer
 - 👀 I’m interested in programming, among other things
-- 🌱 I’m currently learning how to program a good GUI in Java
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 🌱 I’m currently working on a not so secret project
+- 💞️ I’m looking to collaborate on nothing at the moment...but that might change
 - 📫 How to reach me ... as if anyone is going to see this
 
 <!---
